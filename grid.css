@@ -41,7 +41,7 @@ p{
 .nav input{
     width: 700px;
     padding: 10px;
-    font-size: 10px;
+    font-size: 17px;
     border: none;
     outline: none;
     color: black;
@@ -56,14 +56,18 @@ p{
 
 }
 .nav .all{
-    
     background-color: white;
     border-radius: 5px 0 0 5px;
 
 }
+.all i{
+    color: black;
+}
+
 .nav .search{
     padding: 10px 15px;
     margin: -2px;
+    font-size: 17px;
     background-color: orangered;
     border-radius: 0 5px 5px 0;
 
